@@ -86,7 +86,7 @@ Our clients include big and small insurance intermediaries based in East Africa.
  </p>
   </div>
   <h2 className='font-josefin text-[#000e5d] mb-1 font-semibold flex justify-center md:text-xl'>
-    Our total clientele included over 164 Insurance Brokers, Bank Assurance and Agents.
+    Our  clientele includes  Insurance Brokers, Bank Assurance and Agents total linked to 171 clients.
   </h2>
 
       {/* logos of some of the cliets */}

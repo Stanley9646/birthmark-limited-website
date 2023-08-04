@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import {FaTwitterSquare} from 'react-icons/fa'
 import {BsLinkedin} from 'react-icons/bs';
-
+import {AiFillCopyrightCircle} from 'react-icons/ai'
 import {BsInstagram} from 'react-icons/bs'
 
 
@@ -87,7 +87,9 @@ const Footer = () => {
             </p>
           </div>
         </div>
-        <div className='flex justify-center mt-4 font-josefin font-bold italic'>Copyright @2023 - Birthmark Limited</div>
+        <div className='flex justify-center mt-4 font-josefin font-bold italic'>Copyright
+        <span className='ml-2 mt-1 mr-1'><AiFillCopyrightCircle/></span>
+         2023 - Birthmark Limited</div>
       </div>
     </footer>
   );
